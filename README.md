@@ -1,7 +1,8 @@
+Exact same as Khoido's monokai except I
+- made it pinker
+- only left spectrum and light in
 
-<p align="center">
-  <img src="images/palette.png" alt="Monokai Pro Color Palette" width="600"/>
-</p>
+Mui (梅) being the Hokkien word for plum tree, referencing the pink color of its flower
 
 > [!IMPORTANT]
 > **Clear Cache After Updating or Reinstalling the Theme**
@@ -215,27 +216,13 @@ let g:lightline = {'colorscheme': 'monokaiv2'}
 
 Each filter provides a unique take on the Monokai Pro theme:
 
-- **Classic** - The original Monokai theme 
 - **Light** - Light variant for bright environments 
-- **Pro** - The signature Monokai Pro look
-- **Machine** - Industrial, high-contrast variant
-- **Octagon** - Geometric, structured appearance
-- **Ristretto** - Muted, coffee-inspired tones
 - **Spectrum** - Vibrant, colorful variant
 
 
 ## Gallery:
 
-| Filter | Preview |
-|--------|---------|
-| **Classic** | ![Classic Filter](images/classic.png) |
-| **Pro** | ![Pro Filter](images/pro.png) |
-| **Machine** | ![Machine Filter](images/machine.png) |
-| **Octagon** | ![Octagon Filter](images/octagon.png) |
-| **Ristretto** | ![Octagon Filter](images/ristretto.png) |
-| **Spectrum** | ![Spectrum Filter](images/spectrum.png) |
-| **Light** | ![Spectrum Filter](images/light.png) |
-
+sorry i eated it
 
 ## Contributing
 
