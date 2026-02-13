@@ -7,7 +7,7 @@ return {
   foreground_dark = "#5a5359",
   red = "#e14775",
   orange = "#e16032",
-  yellow = "#8E896C",
+  yellow = "#5A5742",
   green = "#a81957",
   cyan = "#bf0099",
   purple = "#aa5acf",
